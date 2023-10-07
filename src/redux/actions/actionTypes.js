@@ -1,0 +1,2 @@
+
+export const SELECTED_SONGS = 'SELEECTED_SONGS'
